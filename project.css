@@ -1,0 +1,344 @@
+.logo{ width:150px;
+       height:70px;
+       float:right;
+       border-radius:3px}
+       #image_cont{position:absolute;
+       top:0;
+       right:0;}
+          
+               
+       h1{font-size: 50px;
+          color: black;
+          font-family: Georgia;
+          text-align:center;}
+          header{ 
+          background:repeating-linear-gradient(60deg,white,whitesmoke);
+          margin:-10px;
+          padding:3px;
+          box-shadow:0 8px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+         width:100%;
+         top:0;
+         z-index:2;
+         position:fixed;
+         body{padding:0;
+         margin:0;}
+       
+          }
+          #premium{ text-align: center;
+                   color:orange;
+                   font-family:arial-black;
+                   }
+                   footer{ background-color:#ddd;
+                          color:whitesmoke;
+                       margin-top:-15px;
+                       margin-left:-8px;
+                       margin-right:-8px;
+                       margin-bottom:-8px; 
+                        height:800px;
+                        
+                       }
+                     
+                          
+                          
+                          #gold{ text-align: center;
+                                 color:whitesmoke;
+                                 font-family: Georgia;
+                                 text-decoration:none;}
+                              
+                                
+                             
+                            
+                         
+                                 #pro{
+                                 list-style-type:none;
+                                 display:block;
+                                 animation-name:slide ;
+                                 animation-duration:1s;
+                                 animation-iteration-count:1;
+                                 padding:0;
+                                 top:60px;
+                                 z-index:2;
+                                 margin:-8px;
+                                 width:100%;
+                                 text-align:center;
+                                 position:fixed;
+                                 background:repeating-linear-gradient(60deg, cornflowerblue,steelblue);
+                                 
+                                 }
+                                
+                                 @keyframes slide{
+                                 from{height:0px;}
+                                 to{height:300px;}
+                                 }
+                                 #closebtn{
+                                           position:absolute;
+                                       
+                                           top:60px;
+                                            right:30px;
+                                            font-size:40px;
+                                            text-decoration:none;
+                                            color:white;
+                                          
+                                           
+                                            }
+                                         #pro,#a,#closebtn{display:none;
+                                         }
+                                            
+                                  #a{display:block;
+                                 padding:13px 8px 13px 18px ;
+                                 max-width:100%;
+                                 margin:0px;
+                                text-decoration:none;
+                                 font-size:17px;
+                                 font-family:Times;
+                                 
+                                 }
+                                 #a:link{color:white;
+                                 
+                                 
+                                 }
+                                  #a:visited{color:khaki;}
+                                  #a:hover{background-color:transparent;
+                                 color:skyblue;
+                                 font-family:courier;
+                                 border-bottom:1px solid white;
+                                 }
+                                  
+                                 
+                                 
+                                
+                                 
+                               
+                              
+                                
+                                section{margin-top:80px;
+                                }
+                                 
+                                 
+                                  .card{
+                                        border:1px solid #ddd;
+                                        border-radius:10px;
+                                        margin:auto;
+                                        box-shadow:0 8px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                                        max-width:60%;
+                                        padding:20px;
+                                        height:400px;
+                                        margin-bottom:30px;
+                                        position:relative;
+                                       
+                                        
+                                        }
+                                       
+                                        
+                                         
+                                          
+                                             
+                                             
+                                             
+                                            
+                                          
+                                          
+                                          
+                                             .psalm{ border-radius:10px;
+                                                     background-color:palegreen;
+                                                     width:100px;
+                                                     height:40px;}
+                                                     #james{ text-align:center
+                                                     }
+                                                    
+                                                     
+                                                     
+                                                     #good{ text-align:center;
+                                                     font-family:;
+                                                     font-size: 20px;
+                                                     color:silver;
+                                                     }
+                                                     #good{border:2px solid white;
+                                                     border-radius:1px;
+                                                     background-color:rgb(51,120,153);
+                                                     margin:8px;
+                                                     padding:8px;
+                                                     }
+                                                     .icon{width:60px;
+                                                     height:50px;
+                                                     border-radius:15px;}
+                                                     #n{text-align:center;}
+                                                     #m{ text-align: center;
+                                                     padding:5px;
+                                                     margin:8px;
+                                                     }
+                                                     .logos{ width:250px;
+                                                     height:70px;
+                                                     border-radius:3px;
+                                                     }
+                                                     blockquote{ text-align:center;
+                                                     color:darkorange;
+                                                     font-family:Garamond;}
+                                                     address { text-align: center;}
+                                                     .contact{
+                                                     width:70%;
+                                                     
+                                                     height:280%;
+                                                     background-color:sandybrown ;
+                                                     margin:auto;
+                                                     padding:1rem;
+                                                     text-align: center;
+                                                     border-radius:10px;
+                                                    border: 3px solid darkgrey;;
+                                                     
+                                                     }
+                                                     input{ margin-bottom:3rem;
+                                                     }
+                                                     .calculus{border-radius:50%;
+                                                               width:150px;
+                                                               height:50px;
+                                                            
+                                                               border:none;
+                                                               background-color:red;}
+                                                               #tan{ text-decoration:none;
+                                                               font-size:30px;
+                                                               }
+                                                     
+                                                          .calculus:hover{background-color:green;}
+                                                          #star{color:indigo;}
+                                                          #cos{text-decoration:none;} 
+                                                          .sin{ background-image:url(downloadfile.jpg)}
+                                                          .cot{ border-radius:10px;
+                                                          margin:8px;
+                                                          background-color:lightcyan;
+                                                          }
+                                                          #hk{ text-align: center;}
+                                                            <style type="text/css">
+                                                            
+                                                            #image1{width:100%;
+                                                            height:200px;
+                                                            margin-left:auto;
+                                                            margin-right:auto;
+                                                            }
+                                                            #div-1{text-align:center;
+                                                            
+                                                            }
+                                                            
+                                                            .btn{background-color:palegreen;
+                                                            width:100px;
+                                                            height:40px;
+                                                            border-radius:10px;
+                                                            border:none;
+                                                            }
+                                                            .slide_text{height:150px;
+                                                            margin-top:50px;
+                                                            position:relative;
+                                                            overflow:hidden;
+                                                            
+                                                            }
+                                                            .slide_text > *{position:absolute;
+                                                            top:100%;
+                                                            
+                                                            animation:12s textmove infinite ease-in-out;
+                                                            }
+                                                            @keyframes textmove{
+                                                            0% {top: 100%;
+                                                            }
+                                                            4% {top: 0%;}
+                                                            33.33% {top: 0%;}
+                                                            37.33% {top: -100%;}
+                                                            100% {top: -100%;}
+                                                            }
+                                                            .slide_text > *:nth-child(1) {animation-delay: 0s}
+                                                            .slide_text > *:nth-child(2) {animation-delay: 4s}
+                                                            .slide_text > *:nth-child(3) {animation-delay: 8s}
+                                                            .img_cont{width:100%;
+                                                            height:170px;
+                                                            background:url(download.jpg);
+                                                            background-size:cover;
+                                                            opacity:0.6;
+                                                            animation:opacity 2s 2;
+                                                            
+                                                            }
+                                                            @keyframes opacity{
+                                                            0%{opacity:0;}
+                                                            100%{opacity:1;}
+                                                            }
+                                                            #text{ text-opacity:1;
+                                                            font-family:arial;
+                                                            color:navy;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            .context{height:550px;
+                                                            width:100%;
+                                                            background-color:darkgrey;
+                                                            opacity:0.8;
+                                                            }
+                                                            .good{height:inherit;
+                                                            width:inherit;
+                                                            background:url(supercenter3.jpg);
+                                                            background-size:cover;
+                                                            }
+                                                            #img{width:200px;
+                                                            height:200px;
+                                                            margin-left:auto;
+                                                            margin-right:auto;
+                                                            background:url(playstore.png);
+                                                            background-size:cover;
+                                                            }
+                                                            #img2{width:200px;
+                                                            height:200px;
+                                                            margin-left:auto;
+                                                            margin-right:auto;
+                                                            margin-top:-60px;
+                                                            background:url(appstore.png);
+                                                            background-size:cover;
+                                                            }
+                                                            .atm{height:500px;
+                                                            width:100%;
+                                                            margin-top:0;
+                                                            background:repeating-linear-gradient(60deg,#ddd,snow,whitesmoke);}
+                                                            #container{height:230px;
+                                                            width:230px;
+                                                            background:repeating-linear-gradient(60deg,magenta,khaki,hotpink);
+                                                            border-radius:50%;
+                                                            margin:auto;
+                                                            position:relative;
+                                                            top:30px;
+                                                            padding:10px;
+                                                            }
+                                                            #cirl{height:inherit;
+                                                            width:inherit;
+                                                            border-radius:inherit;
+                                                            background:url(InShot_20210726_232000987.jpg);
+                                                            background-size:cover;
+                                                            position:static;
+                                                            }
+                                                            ul{list-style-type:default;
+                                                            color:black;
+                                                            }
+                                                            li #sure{text-decoration:none;
+                                                            color:deepskyblue;}
+                                                            
+                                                            #sure:hover{color:blue;
+                                                            background:transparent;
+                                                            }
+                                                            #end{width:inherit;
+                                                            height:100px;
+                                                            padding:20px;
+                                                            font-size:20px;
+                                                            text-align:center;
+                                                            background-color:deepskyblue;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                        
+                                                     
+                                             
+                          
